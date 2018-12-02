@@ -111,3 +111,6 @@ venv.bak/
 
 # Excel junk
 ~*
+
+# Don't store intermediate wavefiles
+*.wav
