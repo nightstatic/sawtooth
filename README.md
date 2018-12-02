@@ -2,6 +2,20 @@
 
 This is demo of a sawtooth waveform and the math to create it.
 
+## Preparing to run the demos.
+
+All the code in this repo wsa made with the [Anaconda Distribution]() of Python, which makes installation of all the libraries needed to run it easier. If you want to bypass that distribution and install all the dependencies yourself, that can work. But those instructions are not covered here.
+
+In addition to Anaconda, this require the `sounddevice` module to be loaded. You can do this with
+
+```
+pip install sounddevice
+```
+
+Also you can run `jupyter notebook` in the directory of this repo to access the notebook in this repo and run it yourself.
+
+
+
 ### License
 
 BSD-2-Clause
