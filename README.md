@@ -4,7 +4,7 @@ This is demo of a sawtooth waveform and the math to create it.
 
 ## Preparation
 
-All the code in this repo wsa made with the [Anaconda Distribution]() of Python, which makes installation of all the libraries needed to run it easier. If you want to bypass that distribution and install all the dependencies yourself, that can work. But those instructions are not covered here.
+All the code in this repo wsa made with the [Anaconda Distribution](https://www.anaconda.com/distribution/) of Python, which makes installation of all the libraries needed to run it easier. If you want to bypass that distribution and install all the dependencies yourself, that can work. But those instructions are not covered here.
 
 In addition to Anaconda, this require the `sounddevice` module to be loaded. You can do this with
 
@@ -12,7 +12,7 @@ In addition to Anaconda, this require the `sounddevice` module to be loaded. You
 pip install sounddevice
 ```
 
-Also you can run `jupyter notebook` in the directory of this repo to access the notebook in this repo and run it yourself.
+Also you can run `jupyter notebook` in the directory of this repo to access the notebook in this repo.
 
 ## Usage
 
@@ -28,7 +28,7 @@ To play a sawtooth wave by additive synthesis:
 additive_sawtooth_to_file_and_speakers.py
 ```
 
-To explore the math and visual explorations of sawtooth waves use the Jupyter notebook.
+To explore the math and visual explorations of sawtooth waves use the Jupyter notebook, see:
 
 [blob/master/sawtooth_in_pictures.ipynb](blob/master/sawtooth_in_pictures.ipynb)
 
