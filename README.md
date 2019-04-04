@@ -25,12 +25,10 @@ python pure_sawtooth_to_file_and_speakers.py
 To play a sawtooth wave by additive synthesis:
 
 ```
-additive_sawtooth_to_file_and_speakers.py
+python additive_sawtooth_to_file_and_speakers.py
 ```
 
-To explore the math and visual explorations of sawtooth waves use the Jupyter notebook, see:
-
-[blob/master/sawtooth_in_pictures.ipynb](blob/master/sawtooth_in_pictures.ipynb)
+To explore the math and visual explorations of sawtooth waves use the Jupyter notebook, see the notebook sawtooth_in_pictures.ipynb.
 
 Note that while you can view it in directly in GitHub, the rendering of the equations is better if you look at in jupyter directly.
 
