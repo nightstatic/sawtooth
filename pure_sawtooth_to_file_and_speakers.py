@@ -11,7 +11,7 @@ A_c = 0.3
 # duration_s: The duration in seconds of the sound.
 # The f_c: Frequency of the sawtooth wave.
 duration_s = 5.0
-f_c = 100.0
+f_c = 440.0
 
 # Create the sawtooth wave for the entire duration of the
 # waveform. The duration won't come to the exact number

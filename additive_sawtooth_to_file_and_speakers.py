@@ -46,7 +46,7 @@ def main():
     # duration_s: The duration in seconds of the sound.
     # The f_c: Frequency of the sawtooth wave.
     duration_s = 5.0
-    f_c = 100.0
+    f_c = 440.0
 
     # Add up the sawtooth
     waveform, _, _ = sawtooth_wave(fundamental_hz=f_c, duration_s=duration_s, max_k=11)
